@@ -1,4 +1,4 @@
-const text = "iOS Engineer | Swift | Scalable Systems | AI-Driven Developer";
+const text = "iOS Engineer • 100K+ Users • Scalable Apps • AI-Driven";
 let i = 0;
 
 function type() {
