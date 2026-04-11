@@ -120,3 +120,17 @@ section {
   color: #38bdf8;
   text-decoration: none;
 }
+
+section {
+  background: rgba(255,255,255,0.03);
+  border-radius: 15px;
+  margin-bottom: 20px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.project-card:hover {
+  box-shadow: 0 0 20px rgba(56,189,248,0.4);
+}
